@@ -1,1 +1,2 @@
-# lab-array-methods-ts
+# Laboratorio Módulo 8.2 - Array Methods 
+
